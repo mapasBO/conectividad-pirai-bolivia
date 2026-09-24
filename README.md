@@ -2,7 +2,7 @@
 
 **Artículo:** *Colapso silencioso: pérdida no lineal de conectividad funcional (−35,6%) frente a pérdida moderada de área forestal (−13,2%) en la subcuenca del río Grande–Piraí, Bolivia, 1985–2024*
 
-**Autora:** Glória Eliana Torrez Castro — PPGG/UFC, 2024–2025  
+**Autora:** Glória Eliana Torrez Castro - Raul Fernando Molina Rodriguez — PPGG/UFC, 2024–2025  
 **Zenodo:** https://doi.org/10.5281/zenodo.XXXXXXX *(DOI a asignar en revisión final)*
 
 ---
