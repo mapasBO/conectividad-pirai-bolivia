@@ -1,0 +1,21 @@
+codigo_mapbiomas,clase_cobertura,nivel_leyenda,resistencia_1_95,categoria_funcional,especie_referencia,fuente_principal,notas
+3,Formacion bocosa — bosque nativo maduro,Nivel 2,1,Habitat fuente,Jaguar y tapir,Zeller et al. (2012),Permeabilidad maxima; habitat optimo
+6,Bosque inundable,Nivel 2,1,Habitat fuente,Jaguar y tapir,Zeller et al. (2012),Incluido en formacion bocosa
+68,Bosque nativo secundario,Nivel 3,1,Habitat fuente,Jaguar y tapir,Zeller et al. (2012),Regeneracion avanzada con estructura forestal
+72,Formacion bocosa en general,Nivel 2,1,Habitat fuente,Jaguar y tapir,Zeller et al. (2012),Categoria agregada MapBiomas Bolivia
+11,Humedal / campo humedo,Nivel 2,3,Corredor ripario,Tapir,Naiman et al. (2005),Eje de conectividad fluvial; alta permeabilidad
+33,Cuerpo de agua / rio principal,Nivel 2,3,Corredor ripario,Tapir,McRae et al. (2008),Corredor fluvial estructural
+12,Pastizal natural (campo limpio),Nivel 2,15,Matriz semipermeable,Tapir,Noss et al. (2003),Permeabilidad moderada en sabanas neotropicales
+13,Formacion herbacea y arbustiva,Nivel 2,20,Matriz semipermeable,Tapir y jaguar,Wade et al. (2015),Vegetacion de transicion; corredor secundario
+4,Formacion savana cerrado,Nivel 2,22,Matriz semipermeable,Jaguar,Rabinowitz & Zeller (2010),Chiquitania; uso frecuente por jaguar en Bolivia
+29,Afloramiento rocoso,Nivel 2,35,Barrera moderada,Tapir,Zeller et al. (2012),Sin cobertura vegetal; atravesado ocasionalmente
+31,Acuicultura / estanques artificiales,Nivel 2,40,Barrera moderada,Tapir,Zeller et al. (2012),Obstaculo fisico puntual; menor persistencia
+9,Silvicultura (plantaciones forestales),Nivel 2,50,Barrera moderada,Jaguar y tapir,Wade et al. (2015),Estructura vertical reducida; permeabilidad intermedia
+15,Pasturas manejadas,Nivel 2,55,Barrera moderada-alta,Jaguar,Rabinowitz & Zeller (2010),Alta resistencia para jaguar; riesgo de caza
+21,Mosaico agropecuario,Nivel 2,60,Barrera alta,Jaguar y tapir,Wade et al. (2015),Menor resistencia que monocultivo intensivo
+18,Agricultura — cultivos anuales y permanentes,Nivel 2,65,Barrera alta,Jaguar y tapir,Zeller et al. (2012),Uso intensivo; baja permeabilidad para mamiferos grandes
+48,Otros cultivos no identificados,Nivel 3,65,Barrera alta,Jaguar y tapir,Zeller et al. (2012),Asimilado a agricultura convencional por precaucion
+36,Arrozal / cultivo irrigado,Nivel 2,70,Barrera alta,Tapir,Noss et al. (2003),Inundacion periodica; evitacion conductual documentada
+25,Suelo desnudo / area quemada,Nivel 2,85,Barrera severa,Jaguar y tapir,Zeller et al. (2012),Sin cobertura; disturbio intenso post-incendio
+24,Area urbanizada / infraestructura,Nivel 2,90,Barrera severa,Jaguar y tapir,Forman & Alexander (1998),Evitacion conductual; efecto barrera fuerte
+30,Mineria,Nivel 2,95,Barrera maxima,Jaguar y tapir,Wade et al. (2015),Disturbio permanente; barrera total documentada

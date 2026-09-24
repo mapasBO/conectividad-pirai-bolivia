@@ -1,0 +1,54 @@
+name: conectividad-pirai
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Core Python
+  - python=3.12
+
+  # Geoespacial
+  - gdal=3.12.2
+  - proj=9.4
+  - geos=3.13
+
+  # Ciencia de datos
+  - numpy=1.26
+  - scipy=1.11
+  - pandas=2.2
+
+  # Grafos (equivalente a Conefor Sensinode 2.2)
+  - networkx=3.2.1
+
+  # Visualizacion
+  - matplotlib=3.8
+  - seaborn=0.13
+
+  # Notebooks
+  - jupyter=1.0
+  - ipykernel=6.29
+
+  # Utilidades
+  - tqdm=4.66        # barras de progreso
+  - pyyaml=6.0
+
+  # Python packages via pip (no disponibles en conda-forge)
+  - pip:
+    - circuitscape==4.0.5   # modelado de conectividad con Teoria de Circuitos
+                             # Referencia: McRae et al. (2008). Ecology 89(10).
+
+# ── Instalacion ─────────────────────────────────────────────────────────────
+# 1. Instalar conda/mamba: https://docs.conda.io/en/latest/miniconda.html
+# 2. Crear entorno:
+#    conda env create -f environment.yml
+# 3. Activar:
+#    conda activate conectividad-pirai
+# 4. Verificar:
+#    python -c "import gdal, networkx, scipy; print('OK')"
+#
+# Nota: Circuitscape 4.0 tambien puede ejecutarse como aplicacion de escritorio
+# independiente (.exe en Windows) sin necesidad de instalacion via pip.
+# Descarga: https://github.com/Circuitscape/Circuitscape/releases
+#
+# QGIS 3.44.8 debe instalarse por separado desde https://qgis.org
+# (incluye Python 3.12 y GDAL 3.12 en su propio entorno).
