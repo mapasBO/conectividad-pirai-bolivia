@@ -143,7 +143,7 @@ python src/05_proyeccion.py
 ## Cita
 
 ```
-Torrez Castro, G.E. (2025). Colapso silencioso: pérdida no lineal de
+Torrez Castro, G.E. Molina Rodriguez, R.F. (2025). Colapso silencioso: pérdida no lineal de
 conectividad funcional en la subcuenca del río Grande–Piraí, Bolivia,
 1985–2024. PPGG/UFC. https://doi.org/10.5281/zenodo.XXXXXXX
 ```
